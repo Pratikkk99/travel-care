@@ -1,0 +1,7 @@
+{
+  "name": "TravelCare India",
+  "description": "A healthcare SaaS solution for patients requiring dialysis or thalassemia transfusions while traveling in India. Discover verified centers, book appointments, and manage medical history.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
